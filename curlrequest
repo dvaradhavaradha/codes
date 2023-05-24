@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"list1": ["item1", "item2", "item3"], "list2": ["item4", "item5", "item6"]}' http://localhost:5000/push
